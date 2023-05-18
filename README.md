@@ -1,4 +1,4 @@
-[![MasterHead](https://www.makeen.io/wp-content/uploads/2020/07/test.jpg)]
+[![MasterHead](https://miro.medium.com/v2/resize:fit:800/1*XgwJgF0EcYUShkNjqz8NeA.gif)]
 <h1 align="center">Hi 👋, I'm Firengiz Kerimova</h1>
 <h3 align="center">Data Science Artificial Intelligence Engineer</h3>
 <img align='rigth' alt='Coding' width='400' src='https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif'>
